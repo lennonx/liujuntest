@@ -5,4 +5,4 @@ add three line
 
 add by dev branch
 
-Creating a new branch is quick & simple. 
+Creating a new branch is quick AND simple. 
